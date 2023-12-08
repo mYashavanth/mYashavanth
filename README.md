@@ -28,8 +28,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 
 - 📫 Reach me on **yashavantham143@gmail.com**
 
-📘 **Education:**
-- PES University Bangalore - Bachelors degree in Electronics and Communications.
+- 📘 I pursued my bachelor's degree in Electronics and Communications from PES University Bangalore.
 
 - 💬 ask me about anything, I would be happy to help
 
