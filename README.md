@@ -35,7 +35,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 - ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
 
 
-- 💬 Have a look at my [Portfolio](https://myashavanth.github.io/Portfolio/)
+- 💬 Have a look at my [Portfolio](https://myashavanth.github.io/Portfolio/){:target="_blank"}
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
