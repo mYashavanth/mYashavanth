@@ -5,7 +5,7 @@
 
 <hr>
 
-Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a penchant for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
+Hello there, Folks! I'm Yashavantha M, a dedicated Full Stack Web Developer with a penchant for crafting digital solutions that elevate everyday experiences. I thrive on engaging projects that push the boundaries of my knowledge and skills. Proficient in the MERN stack, I specialize in JavaScript for web development, delivering comprehensive solutions as a Full Stack Developer. I'm eagerly seeking compelling and challenging opportunities in the field.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
